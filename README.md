@@ -261,6 +261,24 @@ Tiene que ser de 0 ohms para proporcionar un corto circuito a tierra.
 
 ![image](https://user-images.githubusercontent.com/105675032/179894503-75e1e8a6-ddc4-480d-9409-8c01c93cddf7.png)
 
+<h2></b>4. VIDEO</b></h2>
+
+https://youtu.be/42c2okqpbZI
+
+<h2><b>5. CONCLUSIONES</b></h2> 
+
+- La onda sinusoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo, mientras que la onda no sinusoidal es cualquier forma de onda que difiera de la descripción básica de la forma de onda senoidal.
+
+- Las formulas para la onda seno, tienen directa relación con: ángulo, periodo, frecuencia, valor pico, valor pico a pico, valor RMS y valor promedio, con estas formulas se obtiene el voltaje y corriente.
+
+- Los fasores proporcionan un método gráfico para representar cantidades que tienen tanto magnitud como dirección (posición angular).
+
+<h2><b>6. BIBLIOGRAFIA</b></h2> 
+
+Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
+
+
+
 
 
 
